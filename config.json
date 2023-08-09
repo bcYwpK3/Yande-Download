@@ -1,0 +1,12 @@
+{
+	"start": 1,
+	"end": 1,
+	"log": "yander.log",
+	"log_autopurge": false,
+	"tags": "rating:safe",
+	"except_tags": "possible_duplicate",
+	"thread_num": 5,
+	"save_dir": "E:\\Yander-Download",
+	"proxy": false,
+	"proxy_addr": "127.0.0.1:8118"
+}
